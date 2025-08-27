@@ -5,9 +5,9 @@ Módulo III - **Programação Estruturada com JavaScript** para tarefa de casa.
 
 ## 📌 Sobre o projeto
 O objetivo é criar um **card de produto** usando apenas:
-- **HTML semântico**
-- **CSS puro (responsivo)**
-- **JavaScript simples**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 O card contém:
 - Imagem do produto  
