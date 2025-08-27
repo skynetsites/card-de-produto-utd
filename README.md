@@ -1,4 +1,4 @@
-# Card de Produto - Tarefa de Casa
+# Card de Produto - UTD
 
 Este projeto é um exercício do curso **Desenvolvimento de Interfaces WEB com JavaScript - UTD**,  
 Módulo III - **Programação Estruturada com JavaScript** para tarefa de casa.
