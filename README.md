@@ -41,7 +41,7 @@ Praticar:
 
 **Desenvolvido por:** Isaias Oliveira<br>
 **Curso:** Desenvolvimento de Interfaces WEB com JavaScript<br>
-**Créditos:** [**nodws.com**](https://codepen.io/nodws/pen/gbpLqqg) e Prof. [**Osvaldo Souza**](https://github.com/OsvaldoArk)
+**Créditos:** [**nodws.com**](https://codepen.io/nodws/pen/gbpLqqg) e ao Prof. [**Osvaldo Souza**](https://github.com/OsvaldoArk)
 
 ---
 Desenvolvido com ❤️ para o curso **Desenvolvimento de Interfaces WEB com JavaScript - UTD**.
